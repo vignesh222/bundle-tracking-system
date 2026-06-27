@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Expo generated native projects (run: npx expo prebuild to regenerate)
+android/
+ios/
+
+# Expo export output
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# Expo
+.expo/
